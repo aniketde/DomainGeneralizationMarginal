@@ -1,6 +1,6 @@
-Domain Generalization by Marginal Transfer Learning
+Domain Generalization by Marginal Transfer Learning - Under Submission at JMLR
  
-This compares marginal predictor method [1] with pooling method.
+This compares marginal predictor method with pooling method.
 It uses kernel approximation and then liblinear as a solver for speed up.
 This code gives comparison of pooling and transfer learning for regression and binary classification. 
 
